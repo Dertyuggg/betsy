@@ -10,8 +10,8 @@ const LETTER = [
   "ummm idk what else to say 😭",
 ];
 const memories = [
-  { image: "dist/images/20261111_232252_314.png", caption: "teaaaa" },
-  { image: "dist/images/20261111_233206_385.png", caption: "like howwwww" },
+  { image: "public/images/20261111_232252_314.png", caption: "teaaaaa" },
+  { image: "public/images/20261111_233206_385.png", caption: "like howww" },
 ];
 /* ------------------------------ */
 
